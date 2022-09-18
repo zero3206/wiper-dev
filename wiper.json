@@ -99,6 +99,20 @@
  },
  {
   "car_brand": "AUDI 奧迪",
+  "car_type": "A3",
+  "car_year": "2012\/6～",
+  "wiper_size": "24+19",
+  "wiper_cnet": "B1"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A3",
+  "car_year": "2003\/6～",
+  "wiper_size": "21+19",
+  "wiper_cnet": "通用型"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
   "car_type": "A3 (Cabriolet)",
   "car_year": "2008～2013",
   "wiper_size": "24+18",
@@ -129,6 +143,34 @@
   "car_brand": "AUDI 奧迪",
   "car_type": "A3 (Sportback)",
   "car_year": "2013～2021\/3",
+  "wiper_size": "26+18",
+  "wiper_cnet": "B2 (16mm)"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A3 (Sportback)",
+  "car_year": "2013\/6～",
+  "wiper_size": "24+18",
+  "wiper_cnet": "B1"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A3 (Sportback)",
+  "car_year": "2013\/7～",
+  "wiper_size": "26+18",
+  "wiper_cnet": "B2 (16mm)"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A3 (Sportback)",
+  "car_year": "2014～",
+  "wiper_size": "26+18",
+  "wiper_cnet": "B2 (16mm)"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A3 (Sportback)",
+  "car_year": "2015～",
   "wiper_size": "26+18",
   "wiper_cnet": "B2 (16mm)"
  },
@@ -341,6 +383,27 @@
   "car_year": "2018\/8～",
   "wiper_size": "24+20",
   "wiper_cnet": "B2 (16mm)"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A6 (Allroad)(C7)",
+  "car_year": "2012～",
+  "wiper_size": "26+21",
+  "wiper_cnet": "B2"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A6 (Allroad)(C7)",
+  "car_year": "2013～",
+  "wiper_size": "22+21",
+  "wiper_cnet": "通用型"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "A6 (Allroad)(C7)",
+  "car_year": "2014～",
+  "wiper_size": "22+21",
+  "wiper_cnet": "通用型"
  },
  {
   "car_brand": "AUDI 奧迪",
@@ -721,6 +784,34 @@
   "wiper_cnet": "B2 (16mm)"
  },
  {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "TT (MK1)(8N3\/8N9)",
+  "car_year": "2004～",
+  "wiper_size": "22+21",
+  "wiper_cnet": "C"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "TT (MK1)(8N3\/8N9)",
+  "car_year": "2005～",
+  "wiper_size": "22+21",
+  "wiper_cnet": "C"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "TT (MK1)(8N3\/8N9)",
+  "car_year": "2006～",
+  "wiper_size": "22+21",
+  "wiper_cnet": "C"
+ },
+ {
+  "car_brand": "AUDI 奧迪",
+  "car_type": "TT (MK2)(8J3\/8J9)",
+  "car_year": "2006～",
+  "wiper_size": "22+21",
+  "wiper_cnet": "B1"
+ },
+ {
   "car_brand": "Bentley賓利",
   "car_type": "Bentayga",
   "car_year": "2016～",
@@ -890,7 +981,7 @@
  },
  {
   "car_brand": "BMW 寶馬",
-  "car_type": "7-Series  (E38)",
+  "car_type": "7-Series (E38)",
   "car_year": "1993～2001",
   "wiper_size": "22+24",
   "wiper_cnet": "通用型"
@@ -1257,7 +1348,7 @@
   "car_brand": "CHRYSLER 克萊斯勒",
   "car_type": "Sebring",
   "car_year": "2007～2010",
-  "wiper_size": "24+22",
+  "wiper_size": "22+22",
   "wiper_cnet": "通用型"
  },
  {
