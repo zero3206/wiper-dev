@@ -992,7 +992,7 @@
   "car_type": "X2",
   "car_year": "2018～─  (F39)",
   "wiper_size": "24+20",
-  "wiper_cnet": "無對應"
+  "wiper_cnet": "B6"
  },
  {
   "car_brand": "BMW 寶馬",
@@ -3492,6 +3492,13 @@
   "car_year": "2014\/10～2021\/8  (W205)",
   "wiper_size": "22+22",
   "wiper_cnet": "G"
+ },
+ {
+  "car_brand": "MERCEDES-BENZ 賓士",
+  "car_type": "C-Class",
+  "car_year": "2021\/8～─  (W206)",
+  "wiper_size": "22+22",
+  "wiper_cnet": "B12"
  },
  {
   "car_brand": "MERCEDES-BENZ 賓士",
