@@ -900,8 +900,7 @@
   "car_type": "7-Series",
   "car_year": "1998～1998  (E38)",
   "wiper_size": "22+24",
-  "wiper_cnet": "無對應",
-  "Column6": "正反勾"
+  "wiper_cnet": "無對應"
  },
  {
   "car_brand": "BMW 寶馬",
@@ -2118,7 +2117,7 @@
   "car_brand": "HYUNDAI 現代",
   "car_type": "Santa Fe",
   "car_year": "2019\/11～─  (四代)",
-  "wiper_size": "26+14",
+  "wiper_size": "26+16",
   "wiper_cnet": "通用型"
  },
  {
@@ -3714,7 +3713,7 @@
   "car_brand": "MERCEDES-BENZ 賓士",
   "car_type": "GLA",
   "car_year": "2020\/6～─  (X157)",
-  "wiper_size": "24+19",
+  "wiper_size": "26+20",
   "wiper_cnet": "G"
  },
  {
@@ -4520,8 +4519,7 @@
   "car_type": "tobe M'car",
   "car_year": "2010～2013",
   "wiper_size": 26,
-  "wiper_cnet": "通用型",
-  "Column6": "單一支"
+  "wiper_cnet": "通用型"
  },
  {
   "car_brand": "NISSAN 日產",
