@@ -1,3 +1,37 @@
+aspose
+Products
+Support
+Websites
+About
+編輯
+查看器
+轉換
+合併
+開鎖
+保護
+分配器
+比較
+註解
+解析器
+元數據
+水印
+搜索
+代替
+旋轉
+撤銷
+圖表
+抵押
+集會
+翻譯
+壓縮
+清除
+體重指數
+網絡轉換器
+EXCEL APPS  CONVERSION EXCEL TO JSON
+EXCEL 到 JSON 轉換器
+免費在線將 EXCEL 轉換為 JSON。
+供電 aspose.com & aspose.cloud
+一鍵複製
 [
  {
   "car_brand": "ALFA ROMEO 愛快羅密歐",
@@ -3143,6 +3177,20 @@
   "wiper_cnet": "B2 (19mm)"
  },
  {
+  "car_brand": "MG",
+  "car_type": "HS 1.5T",
+  "car_year": "2022\/9～─",
+  "wiper_size": "24+16",
+  "wiper_cnet": "B2 (19mm)"
+ },
+ {
+  "car_brand": "MG",
+  "car_type": "HS PHEV",
+  "car_year": "2022\/9～─",
+  "wiper_size": "24+16",
+  "wiper_cnet": "B2 (19mm)"
+ },
+ {
   "car_brand": "MAZDA 馬自達",
   "car_type": 626,
   "car_year": "1989～1998",
@@ -3439,8 +3487,15 @@
  {
   "car_brand": "MERCEDES-BENZ 賓士",
   "car_type": "B-Class",
-  "car_year": "2019\/6～─  (W246)",
+  "car_year": "2019\/6～2022\/5  (W246)",
   "wiper_size": "26+19",
+  "wiper_cnet": "G"
+ },
+ {
+  "car_brand": "MERCEDES-BENZ 賓士",
+  "car_type": "B-Class",
+  "car_year": "2022\/6～─  (W247)",
+  "wiper_size": "26+20",
   "wiper_cnet": "G"
  },
  {
@@ -3663,9 +3718,16 @@
  {
   "car_brand": "MERCEDES-BENZ 賓士",
   "car_type": "EQC",
-  "car_year": "2020～─  (W293)",
+  "car_year": "2020～2022\/6  (W293)",
   "wiper_size": "22+22",
   "wiper_cnet": "G"
+ },
+ {
+  "car_brand": "MERCEDES-BENZ 賓士",
+  "car_type": "EQC",
+  "car_year": "2022\/7～─  (W293)",
+  "wiper_size": "26+21",
+  "wiper_cnet": "B12"
  },
  {
   "car_brand": "MERCEDES-BENZ 賓士",
@@ -5995,7 +6057,7 @@
   "car_brand": "TOYOTA 豐田",
   "car_type": "Yaris",
   "car_year": "2014\/9～─  (三代)",
-  "wiper_size": "26+14",
+  "wiper_size": "24+14",
   "wiper_cnet": "通用型"
  },
  {
@@ -6080,6 +6142,13 @@
   "car_type": "Caddy",
   "car_year": "2018～─  (四代)  (SA)",
   "wiper_size": "24+18",
+  "wiper_cnet": "B2 (16mm)"
+ },
+ {
+  "car_brand": "VOLKSWAGEN 福斯",
+  "car_type": "Caddy",
+  "car_year": "2020 ~   (五代)  (SA)",
+  "wiper_size": "28+16",
   "wiper_cnet": "B2 (16mm)"
  },
  {
